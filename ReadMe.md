@@ -23,3 +23,7 @@ Start the server (Locally)
   python manage.py runserver
 ```
 
+## Screenshots
+![loginpage.png](loginpage.png)
+![todotasks.png](todotasks.png)
+
